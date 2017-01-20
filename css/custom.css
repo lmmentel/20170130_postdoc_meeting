@@ -16,3 +16,12 @@ i {
 .reveal .creativecommons span {
   font-size: 0.4em;
 }
+
+.reveal .pink {
+  color: #F92672;
+}
+
+.reveal a {
+  color: #F92672;
+
+}
