@@ -1,0 +1,23 @@
+{
+  "name": "20170130_postdoc_meeting",
+  "version": "1.0.0",
+  "description": "A longer description of your presentation",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmmentel/20170130_postdoc_meeting.git"
+  },
+  "author": "Lukasz Mentel",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/lmmentel/20170130_postdoc_meeting/issues"
+  },
+  "homepage": "https://github.com/lmmentel/20170130_postdoc_meeting#readme",
+  "dependencies": {
+    "font-awesome": "4.6.3",
+    "reveal.js": "3.3.0"
+  },
+  "private": true
+}
